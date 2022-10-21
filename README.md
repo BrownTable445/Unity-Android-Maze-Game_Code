@@ -1,6 +1,8 @@
 # Unity-Android-Maze-Game
 Comment out the mikros stuff in the code for the game to run. You must already have a Unity 3D default empty game created. These files go into your empty game. Everything goes inside the game's Assets folder aside from README. Replace the Scene with the Scene in this repository.
 
+To play the actual game go to:
+https://drive.google.com/file/d/1lOp5AEeMz7MbhhPcN0fwoPOry_XrObPh/view?usp=sharing
 
 
 ![image](https://user-images.githubusercontent.com/96506868/195263435-a007e9f9-754b-4b9e-a766-9d7b249d58d8.png)
